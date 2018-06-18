@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>resources/D.png</file>
+        <file>resources/DD.png</file>
+        <file>resources/MOUSE.GIF</file>
+    </qresource>
+</RCC>
